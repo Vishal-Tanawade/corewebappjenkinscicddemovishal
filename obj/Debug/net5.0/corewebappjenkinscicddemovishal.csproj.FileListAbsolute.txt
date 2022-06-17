@@ -9,7 +9,6 @@ D:\Cognizant\Cognizant Internship Data\Stage 4\Azure\corewebappjenkinscicddemovi
 D:\Cognizant\Cognizant Internship Data\Stage 4\Azure\corewebappjenkinscicddemovishal\bin\Debug\net5.0\corewebappjenkinscicddemovishal.pdb
 D:\Cognizant\Cognizant Internship Data\Stage 4\Azure\corewebappjenkinscicddemovishal\bin\Debug\net5.0\corewebappjenkinscicddemovishal.Views.dll
 D:\Cognizant\Cognizant Internship Data\Stage 4\Azure\corewebappjenkinscicddemovishal\bin\Debug\net5.0\corewebappjenkinscicddemovishal.Views.pdb
-D:\Cognizant\Cognizant Internship Data\Stage 4\Azure\corewebappjenkinscicddemovishal\obj\Debug\net5.0\corewebappjenkinscicddemovishal.csproj.AssemblyReference.cache
 D:\Cognizant\Cognizant Internship Data\Stage 4\Azure\corewebappjenkinscicddemovishal\obj\Debug\net5.0\corewebappjenkinscicddemovishal.GeneratedMSBuildEditorConfig.editorconfig
 D:\Cognizant\Cognizant Internship Data\Stage 4\Azure\corewebappjenkinscicddemovishal\obj\Debug\net5.0\corewebappjenkinscicddemovishal.AssemblyInfoInputs.cache
 D:\Cognizant\Cognizant Internship Data\Stage 4\Azure\corewebappjenkinscicddemovishal\obj\Debug\net5.0\corewebappjenkinscicddemovishal.AssemblyInfo.cs
